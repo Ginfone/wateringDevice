@@ -1,2 +1,2 @@
-# Watering Device
+# wateringDevice
 An automatic watering device
